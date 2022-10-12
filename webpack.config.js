@@ -36,4 +36,7 @@ module.exports = {
     }],
   },
   plugins: [],
+  experiments: {
+    futureDefaults: true,
+  }
 };
